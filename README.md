@@ -3,4 +3,4 @@ Game có dử dụng thư viện Raylib của raysan5, link: https://github.com/
 
 Sử dụng makefile để tạo file .exe
 
-Game được viết trong VSCode
+Game được viết trong VSCode với ngôn ngữ C++
